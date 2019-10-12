@@ -9,18 +9,21 @@
 
 ## Game Description:
 
-    Hyrule is under the threat of Ganon,
-    and Princess Zelda has devised a plan
-    that involves a potion brewed with a 
-    special ingredient: Frogs!
+	Pokemons have been nothing but slaves to Pokemon Trainers, 
+	and they have decided it's enough... 
 
-    Link must journey through Hyrule
-    searching for frogs endlessly so that he 
-    can squish them with his Iron Boots. 
-    Be careful though! The Iron Boots are so 
-    heavy that you will immediatly sink upon 
-    contact with water.
+	Mewtwo has launched Pikachu on a quest to destroy all Trainers, 
+	granting him the skill of Thunder once Pikachu has proven 
+	himself worthy by completing the quest. With that skill 
+	Pikachu will be stronger and will be able to erradicate almost 
+	99% of trainers throught his journey. 
+	 
+	In order for Pikachu to be able to destroy all humans, he must 
+	seek for the Creator's blessing. The chances of Pikachu finding  
+	the Creator are slim. He must pay close attention to his surroundings 
+	after he has proven himself worthy to Mewtwo, because without the blessing 
+	he will fail his task upon arriving to the Pokemon League. 
 
-    Avoid lakes at all cost, jump over Octoroks 
-    and search for Zelda's missing ingredient. 
-    The world is counting on you!
+	Beyond the cave lies the Pokemon League. Without the Creator's belssing; 
+	all hope is lost... 
+
