@@ -61,8 +61,10 @@
 
 ## Game credits:
 
-	This game was developed as part of the programming course Advanced Programming at the University of Puerto Rico at Mayagüez.
-	All credit goes to the University, Nintendo Co., Ltd.
+	This game was developed while auditing programming course:
+	Advanced Programming at the University of Puerto Rico at Mayagüez.
+
+	All credit goes to the University of Puerto Rico at Mayagüez and Nintendo Co., Ltd.
 	This game is **NOT** intended for commercial use.
 		
 
